@@ -1,0 +1,12 @@
+[submodule "Data-Structures-and-Algorithms"]
+	path = Data-Structures-and-Algorithms
+	url = git@github.com:theja-m/Data-Structures-and-Algorithms.git
+[submodule "c++"]
+	path = c++
+	url = git@github.com:shree1999/Data-Structures-and-Algorithms.git
+[submodule "go"]
+	path = go
+	url = git@github.com:punitpandey/DS-Algo.git
+[submodule "python"]
+	path = python
+	url = git@github.com:theja-m/Data-Structures-and-Algorithms.git

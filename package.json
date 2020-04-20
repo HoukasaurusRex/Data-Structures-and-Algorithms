@@ -1,29 +1,23 @@
 {
-  "name": "module-boilerplate",
+  "name": "data-structures-and-algorithms",
   "version": "1.0.0",
-  "description": "Boilerplate for creating node modules",
+  "description": "Javascript implementation of data structures and algorithms",
   "main": "index.js",
   "scripts": {
     "test": "echo 'No tests available'"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-prettier": "^4.3.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
     "eslint-plugin-prettier": "^3.1.0",
-    "husky": "^2.4.0",
-    "lint-staged": "^8.2.0",
-    "prettier": "^1.18.2"
+    "husky": "^4.2.5",
+    "lint-staged": "^10.1.6",
+    "prettier": "^2.0.4"
   },
   "repository": {
     "type": "git",
-    "url": "module-boilerplate"
+    "url": "data-structures-and-algorithms"
   },
-  "keywords": [
-    "module",
-    "boilerplate",
-    "node_module",
-    "node"
-  ],
-  "author": "JT Houk <jt1992@gmail.com> (https://jt.houkasaurus.com/)",
+  "author": "JT Houk <jt@houk.space> (https://jt.houk.space/)",
   "license": "MIT"
 }
